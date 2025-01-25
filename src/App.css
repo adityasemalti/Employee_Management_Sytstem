@@ -1,0 +1,9 @@
+.first{
+  background-image: url("C:\Users\LENOVO\OneDrive\Desktop\employee_mangement\src\assets\bg-2.jpg");
+  background-size: cover;
+   
+}
+
+.second{
+  box-shadow:blue 5px 5px 10px;
+}
